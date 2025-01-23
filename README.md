@@ -1,8 +1,11 @@
 **Good Cabs - Ad -hoc analysis - Transportation Indstry**
 
 **Tools - Python**
+
 **Industry - Transporation**
+
 **Function - Operations**
+
 **The analysis is performed over 7 tables and around half a million records**
 
 **Ad hoc  Business Requests**
